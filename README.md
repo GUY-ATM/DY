@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="<img width="1224" height="796" alt="屏幕截图 2026-08-15 150349" src="https://github.com/user-attachments/assets/f3f61f02-920b-44de-b549-fd738ff0ddb5" />
-" alt="刷抖音神器" width=1224">
+  <img src="https://github.com/user-attachments/assets/f3f61f02-920b-44de-b549-fd738ff0ddb5" alt="刷抖音神器" width="1224" height="796">
 </p>
-
-<h1 align="center">刷抖音神器</h1>
-
 # 刷抖音神器
 
 基于 **ESP32-C3** 的蓝牙触控遥控器，通过模拟 HID 绝对坐标触摸手势，控制手机短视频 App 进行刷视频、点赞、评论、分享等操作。
